@@ -1,10 +1,21 @@
-**Hello, I'm Mason Walker**
+# Mason Walker's GitHub Profile
 
-Welcome to my GitHub profile. I'm a systems software engineer based in the United States, currently working on building scalable and efficient systems. When I'm not writing code, you can find me trying out new board games or practicing my photography skills.
+Hey there! 👋 I'm Mason Walker, a systems software engineer based in the United States. I spend most of my days (and nights) diving deep into Rust, WebAssembly, and Tokio. I love building robust, performant systems that can handle the toughest challenges.
 
-**Tech Stack**
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)](https://www.rust-lang.org/)
-[![WebAssembly](https://img.shields.io/badge/WebAssembly-003850?style=for-the-badge&logo=WebAssembly&logoColor=white)](https://webassembly.org/)
-[![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=Tokio&logoColor=blue)](https://tokio.rs/)
+## What I'm Into
 
-**Currently building...** a personal project that explores the intersection of systems programming and game development using Rust and WebAssembly.
+- **Rust**: Writing safe and concurrent code.
+- **WebAssembly**: Bridging the gap between the web and native performance.
+- **Tokio**: Async all the things!
+
+## Tech Stack
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-663399?style=for-the-badge&logo=webassembly&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## Currently Building
+
+I'm currently building a high-performance, Rust-based web server using Tokio and Warp. Stay tuned for updates! 🚀
+
+Feel free to check out my projects and reach out if you have any questions or want to collaborate. Let's build something amazing together! 💡
