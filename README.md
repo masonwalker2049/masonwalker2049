@@ -1,17 +1,21 @@
-# Hey there! I'm Mason Walker
+# Hi Mason!
 
-👋 Just another full-stack TypeScript dev from the United States, trying to make the web a better place one commit at a time. When I'm not coding, you can find me hiking in the mountains or tinkering with my latest side project.
+I'm a systems software engineer from the United States, and I'm excited to share a bit about what I'm into and what I've been working on.
 
-### What I'm Into:
-- Crafting robust web applications
-- Exploring new technologies
-- Building communities and open-source projects
+## About me
 
-### Tech Stack:
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+I'm passionate about building fast, reliable, and secure systems software. I love experimenting with new technologies and collaborating with others to push the boundaries of what's possible. When I'm not coding, you can find me hiking, playing guitar, or trying out new craft beers.
 
-### Currently Building:
-A personal finance tracker that helps users visualize and manage their expenses efficiently. Stay tuned for updates!
+## Tech stack
+
+I'm currently working with a mix of Rust, WebAssembly, and Tokio. Here are some of the technologies I'm familiar with:
+
+[![Rust](https://img.shields.io/badge/-Rust-blue.svg?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![WebAssembly](https://img.shields.io/badge/-WebAssembly-blue.svg?style=for-the-badge&logo=webassembly)](https://webassembly.org/)
+[![Tokio](https://img.shields.io/badge/-Tokio-blue.svg?style=for-the-badge&logo=tokio)](https://tokio.dev/)
+
+## Currently building
+
+I'm currently experimenting with a new project that combines Rust and WebAssembly to build a high-performance, multi-threaded runtime environment for parallel computing. It's still in the early stages, but I'm excited to see where this project takes me!
+
+[![GitHub stats](https://github.com/masonwalker2049/masonwalker2049/blob/main/github_stats.svg)]
